@@ -88,8 +88,8 @@ Collection of advanced REST APIs following production-grade design.
 <!-- CONTACT -->
 ## 🔗 Connect With Me
 
-📩 **Email:** *(add your email)*  
-🔗 **LinkedIn:** *(add your LinkedIn profile)*  
+📩 **Email:** *dheerajbasude@gmail.com*  
+🔗 **LinkedIn:** *[Dheeraj Basude](https://linkedin.com/in/dheeraj-basude/)*  
 🧑‍💻 **GitHub:** [dheerajbasude-dev](https://github.com/dheerajbasude-dev)
 
 ---
