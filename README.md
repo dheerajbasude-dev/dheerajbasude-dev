@@ -61,7 +61,7 @@ Hi! I'm **Dheeraj**, a passionate **Backend Developer** focused on building
 
 ## ⭐ Featured Projects
 
-### 📊 Payroll Management System (Spring Boot + MongoDB)
+### 📊 Payroll Management System
 Enterprise-grade payroll backend with employee management, salary, and tax modules.
 
 - **Tech Stack:** Java, Spring Boot, Spring Data MongoDB, MongoDB  
