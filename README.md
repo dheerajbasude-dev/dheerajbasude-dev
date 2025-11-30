@@ -73,7 +73,7 @@ Complete backend system for employee payroll, taxation, and financial summaries.
 ### 📦 **REST API Projects**
 Collection of advanced REST APIs following production-grade design.
 
-> *(Pin these repositories on your GitHub so they show here)*
+> *[Payroll Management System](https://github.com/dheerajbasude-dev/<repo-name>)*
 
 ---
 
@@ -81,8 +81,8 @@ Collection of advanced REST APIs following production-grade design.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dheerajbasude-dev&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajbasude-dev&layout=compact&theme=tokyonight" />
+ <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dheerajbasude-dev&show_icons=true&theme=tokyonight" />
+ <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dheerajbasude-dev&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
