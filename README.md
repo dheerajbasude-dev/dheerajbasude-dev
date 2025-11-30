@@ -67,17 +67,15 @@ A robust authentication service with secure token validation & role-based access
 ### 📊 **Payroll Management System (Spring Boot + MongoDB)**
 Enterprise-grade payroll backend with employee mgmt, salary, and tax modules.
 
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajbasude-dev&repo=Payroll-Management-System&theme=tokyonight)](https://github.com/dheerajbasude-dev/Payroll-Management-System)
-
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajbasude-dev&repo=JWT-Authentication-API&theme=tokyonight)](https://github.com/dheerajbasude-dev/JWT-Authentication-API)
+> [![Readme Card](https://github-readme-stats-dheeraj.vercel.app/api/pin/?username=dheerajbasude-dev&repo=React-TaskNote&theme=tokyonight)](https://github.com/dheerajbasude-dev/React-TaskNote)
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
- <img height="180" src="https://github-readme-stats.vercel.app/api?username=dheerajbasude-dev&show_icons=true&theme=tokyonight" />
- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajbasude-dev&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-dheeraj.vercel.app/api?username=dheerajbasude-dev&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-dheeraj.vercel.app/api/top-langs/?username=dheerajbasude-dev&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
