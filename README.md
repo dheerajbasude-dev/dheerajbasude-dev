@@ -74,6 +74,10 @@ Complete backend system for employee payroll, taxation, and financial summaries.
 Collection of advanced REST APIs following production-grade design.
 
 > *[Payroll Management System](https://github.com/dheerajbasude-dev/<repo-name>)*
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajbasude-dev&repo=Payroll-Management-System&theme=tokyonight)](https://github.com/dheerajbasude-dev/Payroll-Management-System)
+
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajbasude-dev&repo=JWT-Authentication-API&theme=tokyonight)](https://github.com/dheerajbasude-dev/JWT-Authentication-API)
+
 
 ---
 
