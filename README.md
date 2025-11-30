@@ -66,16 +66,7 @@ Enterprise-grade payroll backend with employee management, salary, and tax modul
 
 - **Tech Stack:** Java, Spring Boot, Spring Data MongoDB, MongoDB  
 - **Highlights:** Employee CRUD, salary computation, tax calculation, REST APIs  
-- 🔗 **Repo:** [Payroll Management System](https://github.com/dheerajbasude-dev/Payroll-Management-System)
-
----
-
-### 🔐 JWT Authentication API (Spring Security + JWT)
-Authentication & authorization service with secure token-based login.
-
-- **Tech Stack:** Java, Spring Boot, Spring Security, JWT  
-- **Highlights:** Role-based access, token validation, secure endpoints  
-- 🔗 **Repo:** [JWT Authentication API](https://github.com/dheerajbasude-dev/JWT-Authentication-API)
+> 🔗 **Repo:** [Payroll Management System](https://github.com/dheerajbasude-dev/Payroll-Management-System)
 
 ---
 
