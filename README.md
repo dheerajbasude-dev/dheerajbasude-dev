@@ -18,7 +18,7 @@ Hi! I'm **Dheeraj**, a passionate **Backend Developer** focused on building
 - Building secure & high-performance REST APIs  
 - Working with MongoDB & MySQL  
 - Writing clean code with industry-level best practices  
-- Learning & evolving backend technologies
+- Constantly learning new backend technologies
 
 🎖️ **AWS Cloud Certified**
 
@@ -47,10 +47,10 @@ Hi! I'm **Dheeraj**, a passionate **Backend Developer** focused on building
 - Maven  
 - Docker (Basic)  
 - VS Code  
-- AWS (EC2, S3, IAM, Lambda Basics)
+- AWS (EC2, S3, IAM, Lambda basics)
 
 ### 🏅 Certifications  
-<img src="https://img.shields.io/badge/AWS-Cloud%20Certified-orange?logo=amazonaws&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/AWS-Cloud%20Certified-orange?logo=amazonaws&logoColor=white" height="25" />
 
 ### 🔹 Frontend (Basics)
 - HTML  
@@ -61,33 +61,36 @@ Hi! I'm **Dheeraj**, a passionate **Backend Developer** focused on building
 
 ## ⭐ Featured Projects
 
-### 🔐 **JWT Authentication API (Spring Security + JWT)**
-A robust authentication service with secure token validation & role-based access.
+### 📊 Payroll Management System (Spring Boot + MongoDB)
+Enterprise-grade payroll backend with employee management, salary, and tax modules.
 
-### 📊 **Payroll Management System (Spring Boot + MongoDB)**
-Enterprise-grade payroll backend with employee mgmt, salary, and tax modules.
-
-> [![Readme Card](https://github-readme-stats-dheeraj.vercel.app/api/pin/?username=dheerajbasude-dev&repo=React-TaskNote&theme=tokyonight)](https://github.com/dheerajbasude-dev/React-TaskNote)
+- **Tech Stack:** Java, Spring Boot, Spring Data MongoDB, MongoDB  
+- **Highlights:** Employee CRUD, salary computation, tax calculation, REST APIs  
+- 🔗 **Repo:** [Payroll Management System](https://github.com/dheerajbasude-dev/Payroll-Management-System)
 
 ---
 
-## 📈 GitHub Analytics
+### 🔐 JWT Authentication API (Spring Security + JWT)
+Authentication & authorization service with secure token-based login.
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-dheeraj.vercel.app/api?username=dheerajbasude-dev&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats-dheeraj.vercel.app/api/top-langs/?username=dheerajbasude-dev&layout=compact&theme=tokyonight" />
-</p>
+- **Tech Stack:** Java, Spring Boot, Spring Security, JWT  
+- **Highlights:** Role-based access, token validation, secure endpoints  
+- 🔗 **Repo:** [JWT Authentication API](https://github.com/dheerajbasude-dev/JWT-Authentication-API)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajbasude-dev&theme=tokyonight" />
-</p>
+---
+
+## 📈 GitHub Activity
+
+- 🔹 Check out my **pinned repositories** below this profile  
+- 🔹 See my **contribution graph** on my GitHub profile  
+- 🔹 Explore more projects here: [github.com/dheerajbasude-dev](https://github.com/dheerajbasude-dev)
 
 ---
 
 ## 🔗 Connect With Me
 
-📩 **Email:** dheerajbasude@gmail.com  
-🔗 **LinkedIn:** [Dheeraj Basude](https://linkedin.com/in/dheeraj-basude/)  
+📩 **Email:** *dheerajbasude@gmail.com*  
+🔗 **LinkedIn:** *[Dheeraj Basude](https://linkedin.com/in/dheeraj-basude/)*  
 🧑‍💻 **GitHub:** [dheerajbasude-dev](https://github.com/dheerajbasude-dev)
 
 ---
