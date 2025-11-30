@@ -19,7 +19,9 @@ Hi! I'm **Dheeraj**, a passionate **Backend Developer** focused on building
 - Building secure & high-performance REST APIs  
 - Working with databases like MongoDB & MySQL  
 - Writing clean code with industry-level best practices  
-- Learning new backend technologies and evolving constantly  
+- Learning new backend technologies and evolving constantly
+
+ 🎖️ **AWS Cloud Certified**
 
 ---
 
@@ -27,7 +29,7 @@ Hi! I'm **Dheeraj**, a passionate **Backend Developer** focused on building
 ## 🛠️ Tech Stack & Skills
 
 ### 🔹 **Languages**
-- Java • JavaScript
+- Java • JavaScript • Python
 
 ### 🔹 **Backend Development**
 - Spring Boot  
@@ -46,7 +48,11 @@ Hi! I'm **Dheeraj**, a passionate **Backend Developer** focused on building
 - IntelliJ IDEA  
 - Maven  
 - Docker (basic)  
-- VS Code  
+- VS Code
+- AWS Cloud (EC2, S3, IAM, Lambda basics)
+
+### 🏅 Certifications  
+- <img src="[https://img.shields.io/badge/AWS-Cloud%20Certified-orange?logo=amazonaws&logoColor=white](https://www.credly.com/badges/fbfbd1a3-60e2-40aa-ac64-2b594339f2b3/public_url)" height="25" />
 
 ### 🔹 **Frontend (Basics)**
 - HTML  
